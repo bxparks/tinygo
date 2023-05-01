@@ -1,3 +1,4 @@
 {
-	"inherits": ["nodemcu"]
+	"inherits": ["nodemcu"],
+	"build-tags": ["d1mini"]
 }
